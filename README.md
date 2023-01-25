@@ -15,7 +15,7 @@ This is the prototype website for connecting and interacting with patients throu
 
 Project Description :
 
-Core Idea of Project is to build a sample prototype for Hospital Colabrated Website with customer care Bot for a Hospital with the help of HTML, CSS. This website is most visible and helpful to the patients Who have internet Access and connected to World Wide Web. The primary goal of sample prototype is to cansult best docters to solv their problems  speedily via Bot . This project deals with developing a website for Health Care Organisation. We are using Azure Technologies with GitHub to complete this project.
+Core Idea of Project is to build a sample prototype for Hospital Colabrated Website with customer care Bot for a Hospital with the help of HTML, CSS. This website is most visible and helpful to the patients Who have internet Access and connected to World Wide Web. The primary goal of sample prototype is to cansult best docters to solve their problems  speedily via Bot . This project deals with developing a website for Health Care Organisation. We are using Azure Technologies with GitHub to complete this project.
 
 Screenshots:
 
