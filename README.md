@@ -41,3 +41,5 @@ Static Web Apps[used to deploy this website]
 Other Azure Technologies : App Services.
 
 Project Demo Link:https://happy-bay-0ef585200.2.azurestaticapps.net/
+
+Demo Video:https://youtu.be/jHJueP-nd4M
